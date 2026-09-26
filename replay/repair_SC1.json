@@ -1,0 +1,6 @@
+{
+  "key": "repair_SC1",
+  "prompt_sha": "cd2c015294b122f6",
+  "model": "claude-opus-5-5 (offline, Claude Code session)",
+  "response": "{\"lines\": [\n {\"subtitle_id\": \"S005\", \"nadi_9_text\": null,\n  \"tokens\": [],\n  \"gaps\": [\n   {\"words\": \"call\", \"reason\": \"No source glosses any word as 'call'. The closest attested phrase is 'phone se boli' ('said by phone', interview I2), but boli is only 'say, tell, speak'.\"},\n   {\"words\": \"even\", \"reason\": \"No word for 'even'; the reproach is weaker without it.\"}],\n  \"dropped\": [],\n  \"assumptions\": [\"Candidate for the reviewer: 'tuvan phone se mo boliriji' = 'you (resp.) did not speak by phone'. Not used because it paraphrases 'call'.\"],\n  \"self_confidence\": 0.3}\n]}\n"
+}

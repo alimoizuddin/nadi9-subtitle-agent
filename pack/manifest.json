@@ -1,0 +1,14 @@
+{
+  "pack_id": "nadi9-synthetic-v1",
+  "synthetic": true,
+  "sources": [
+    {"id": "examples", "type": "approved_examples", "file": "examples.json", "author": "STAGE localisation team", "date": "2026-05-10", "scope": "20 source-to-Nadi-9 sentence pairs with interlinear gloss"},
+    {"id": "grammar", "type": "grammar_note", "file": "grammar_note.md", "author": "P. Varma (field notes)", "date": "2024-11-02", "scope": "word order, tense, respect, negation, questions, loans"},
+    {"id": "dictA", "type": "dictionary", "file": "dictionary_a.json", "author": "Vendor (earlier localisation contract)", "date": "2025-11-20", "scope": "broad coverage, method undocumented"},
+    {"id": "dictB", "type": "dictionary", "file": "dictionary_b.json", "author": "Community linguist, Nadi valley", "date": "2026-06-14", "scope": "small, attested usage with notes"},
+    {"id": "experts", "type": "expert_notes", "file": "expert_notes.json", "author": "Three language specialists", "date": "2026-07/08", "scope": "comments on usage and rules"},
+    {"id": "feedback", "type": "viewer_feedback", "file": "viewer_feedback.json", "author": "Pilot viewers", "date": "2026-04", "scope": "unmoderated comments"},
+    {"id": "interviews", "type": "interviews", "dir": "interviews", "author": "Native speakers", "date": "2026-03", "scope": "family, work, humour, status"},
+    {"id": "episode", "type": "episode", "file": "episode.json", "author": "STAGE", "date": "2026-09", "scope": "source transcript to subtitle"}
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "rules": [
+    {
+      "id": "G-ORDER-1",
+      "kind": "verb_final",
+      "params": {},
+      "statement": "Clause order is Subject-Object-Verb; the verb is the last content word.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "The verb is the last content word of the clause.",
+      "dissent": [],
+      "support": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-POST-1",
+      "kind": "postposition_after_noun",
+      "params": {
+        "words": [
+          "ke",
+          "se",
+          "pisu"
+        ]
+      },
+      "statement": "Postpositions follow the noun.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "Nadi-9 uses postpositions, not prepositions. They follow the noun",
+      "dissent": [],
+      "support": [
+        "E05",
+        "E09",
+        "E17",
+        "E19"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-TENSE-1",
+      "kind": "tense_suffix",
+      "params": {
+        "suffix": "ri",
+        "feature": "PAST"
+      },
+      "statement": "Past tense is root + -ri.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "Past tense is the suffix -ri on the verb root",
+      "dissent": [],
+      "support": [
+        "E01",
+        "E02",
+        "E04",
+        "E05",
+        "E07",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E16",
+        "E17",
+        "E19",
+        "E20"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-TENSE-2",
+      "kind": "tense_suffix",
+      "params": {
+        "suffix": "sa",
+        "feature": "FUT"
+      },
+      "statement": "Future tense is root + -sa.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "Future tense is the suffix -sa",
+      "dissent": [],
+      "support": [
+        "E03",
+        "E08",
+        "E09",
+        "E14",
+        "E18"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-NEG-1",
+      "kind": "neg_before_verb",
+      "params": {
+        "particle": "mo"
+      },
+      "statement": "Negation 'mo' comes immediately before the verb.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "The negative particle mo comes immediately before the verb",
+      "dissent": [],
+      "support": [
+        "E04",
+        "E08",
+        "E20"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-RESPECT-1",
+      "kind": "resp_pronoun",
+      "params": {
+        "elder": "tuvan",
+        "other": "tu"
+      },
+      "statement": "Address elders/higher status with tuvan, peers/younger with tu.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "elders and people of higher status with tuvan",
+      "dissent": [],
+      "support": [
+        "E01",
+        "E02",
+        "E09",
+        "E10",
+        "E12",
+        "E14",
+        "E17",
+        "E20"
+      ],
+      "counter": [
+        "E07"
+      ],
+      "attested": [],
+      "status": "SUPPORTED_SUSPECT_COUNTER"
+    },
+    {
+      "id": "G-RESPECT-2",
+      "kind": "resp_suffix",
+      "params": {
+        "suffix": "ji"
+      },
+      "statement": "Verbs whose subject is older/higher-status than the speaker take -ji after the tense suffix.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "the verb takes -ji after the tense suffix",
+      "dissent": [],
+      "support": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E08",
+        "E09",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20"
+      ],
+      "counter": [
+        "E07"
+      ],
+      "attested": [],
+      "status": "SUPPORTED_SUSPECT_COUNTER"
+    },
+    {
+      "id": "G-Q-1",
+      "kind": "question_final",
+      "params": {
+        "particle": "ka"
+      },
+      "statement": "Yes/no questions end with 'ka'.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "Yes/no questions end with the particle ka.",
+      "dissent": [],
+      "support": [
+        "E02",
+        "E07",
+        "E09",
+        "E14",
+        "E17"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "SUPPORTED"
+    },
+    {
+      "id": "G-LOAN-1",
+      "kind": "loan_unchanged",
+      "params": {},
+      "statement": "English loans for modern things are used unchanged.",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "English words for modern things (bus, phone, city, ticket) are used unchanged.",
+      "dissent": [
+        "expert:X3-1"
+      ],
+      "support": [
+        "E05",
+        "E17"
+      ],
+      "counter": [],
+      "attested": [],
+      "status": "WEAK"
+    },
+    {
+      "id": "G-POSS-1",
+      "kind": "possessive_suffix",
+      "params": {
+        "suffix": "ko"
+      },
+      "statement": "Possessive pronouns add -ko (elicited in isolation only).",
+      "source": "grammar",
+      "cites": "grammar",
+      "quote": "Possessive pronouns add -ko",
+      "dissent": [],
+      "support": [],
+      "counter": [],
+      "attested": [],
+      "status": "DOCUMENTED_UNTESTED"
+    },
+    {
+      "id": "X3-HORT",
+      "kind": "hortative_suffix",
+      "params": {
+        "suffix": "na"
+      },
+      "statement": "'Let us ...' may be root + -na; one expert, unconfirmed.",
+      "source": "expert",
+      "cites": "expert:X3-2",
+      "quote": "'Let us ...' seems to be root + -na",
+      "dissent": [],
+      "support": [],
+      "counter": [],
+      "attested": [
+        "interview:I2#1"
+      ],
+      "status": "SINGLE_SOURCE"
+    }
+  ],
+  "rejected_model_rules": [
+    {
+      "id": "M-PL-1",
+      "kind": "plural_suffix",
+      "params": {
+        "suffix": "lu"
+      },
+      "statement": "Plural nouns take the suffix -lu (e.g. sanulu 'years').",
+      "source": "model",
+      "cites": "model",
+      "quote": "",
+      "dissent": [],
+      "support": [],
+      "counter": [],
+      "attested": [],
+      "status": "REJECTED_UNSUPPORTED"
+    }
+  ],
+  "expert_positions": [
+    {
+      "note": "X1-2",
+      "rule": "G-RESPECT-2",
+      "stance": "supports",
+      "summary": "Confirms tense suffix first, then -ji."
+    },
+    {
+      "note": "X2-2",
+      "rule": "G-LOAN-1",
+      "stance": "supports",
+      "summary": "Loans stay exactly as in English."
+    },
+    {
+      "note": "X3-1",
+      "rule": "G-LOAN-1",
+      "stance": "dissents",
+      "summary": "Rural speech adds final -u to loans (busu, phonu)."
+    },
+    {
+      "note": "X3-2",
+      "rule": "X3-HORT",
+      "stance": "supports",
+      "summary": "Source of the hortative hypothesis; unconfirmed."
+    }
+  ],
+  "suspect_examples": {
+    "E07": [
+      "G-RESPECT-1",
+      "G-RESPECT-2"
+    ]
+  },
+  "retracted_examples": [
+    "E15"
+  ]
+}

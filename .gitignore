@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+replay/pending/
+.omni_brief_*.md
+*.egg-info/
+build/

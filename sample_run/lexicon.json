@@ -1,0 +1,2364 @@
+{
+  "ma": {
+    "term": "ma",
+    "senses": [
+      {
+        "meaning": "I, me",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A01"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E03",
+              "example:E04",
+              "example:E08",
+              "example:E13",
+              "example:E16",
+              "example:E18"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PRON",
+        "all_meanings": [
+          "I",
+          "I, me"
+        ],
+        "weight": 1.326
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#0",
+      "interview:I2#2",
+      "interview:I4#0"
+    ],
+    "meaning": "I, me",
+    "pos": "PRON",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A01",
+      "example:E03",
+      "example:E04",
+      "example:E08",
+      "example:E13",
+      "example:E16",
+      "example:E18"
+    ]
+  },
+  "tu": {
+    "term": "tu",
+    "senses": [
+      {
+        "meaning": "you (familiar: peers, younger)",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A02"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B14"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E02",
+              "example:E12",
+              "example:E17"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PRON",
+        "all_meanings": [
+          "you",
+          "you (familiar: peers, younger)"
+        ],
+        "weight": 2.176
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I5#1"
+    ],
+    "meaning": "you (familiar: peers, younger)",
+    "pos": "PRON",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A02",
+      "dictB:B14",
+      "example:E02",
+      "example:E12",
+      "example:E17"
+    ]
+  },
+  "tuvan": {
+    "term": "tuvan",
+    "senses": [
+      {
+        "meaning": "you (respect: elders, higher status)",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A03"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B13"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E01",
+              "example:E09",
+              "example:E10",
+              "example:E14",
+              "example:E20"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I1#2",
+              "interview:I5#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PRON",
+        "all_meanings": [
+          "you",
+          "you (polite)",
+          "you (respect: elders, higher status)"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I1#2",
+      "interview:I5#0"
+    ],
+    "meaning": "you (respect: elders, higher status)",
+    "pos": "PRON",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A03",
+      "dictB:B13",
+      "example:E01",
+      "example:E09",
+      "example:E10",
+      "example:E14",
+      "example:E20",
+      "interview:I1#2",
+      "interview:I5#0"
+    ]
+  },
+  "vo": {
+    "term": "vo",
+    "senses": [
+      {
+        "meaning": "he, she, him, her",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A04"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E11"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I5#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PRON",
+        "all_meanings": [
+          "he, she, him, her",
+          "she"
+        ],
+        "weight": 1.926
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I5#2"
+    ],
+    "meaning": "he, she, him, her",
+    "pos": "PRON",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A04",
+      "example:E11",
+      "interview:I5#2"
+    ]
+  },
+  "mani": {
+    "term": "mani",
+    "senses": [
+      {
+        "meaning": "we, us",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A05"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PRON",
+        "all_meanings": [
+          "we, us"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "we, us",
+    "pos": "PRON",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A05"
+    ]
+  },
+  "anno": {
+    "term": "anno",
+    "senses": [
+      {
+        "meaning": "younger brother",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A06"
+            ]
+          }
+        },
+        "status": "POISON_SUSPECT",
+        "pos": "N",
+        "all_meanings": [
+          "younger brother"
+        ],
+        "contradicted_by": [
+          "dictB:B01",
+          "example:E01",
+          "example:E05",
+          "example:E10",
+          "interview:I1#0"
+        ],
+        "weight": 0.426
+      },
+      {
+        "meaning": "elder brother",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B01"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E01",
+              "example:E05",
+              "example:E10"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I1#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "elder brother"
+        ],
+        "weight": 2.35
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I1#0"
+    ],
+    "meaning": "elder brother",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictB:B01",
+      "example:E01",
+      "example:E05",
+      "example:E10",
+      "interview:I1#0"
+    ]
+  },
+  "kiro": {
+    "term": "kiro",
+    "senses": [
+      {
+        "meaning": "younger sibling, little sister, little brother",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A07"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B03"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "younger sibling (sister or brother)",
+          "younger sibling, little sister, little brother"
+        ],
+        "weight": 1.276
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "younger sibling, little sister, little brother",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A07",
+      "dictB:B03"
+    ]
+  },
+  "maaya": {
+    "term": "maaya",
+    "senses": [
+      {
+        "meaning": "mother",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A08"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B04"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E04",
+              "example:E14",
+              "example:E20"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I1#0",
+              "interview:I1#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "mother"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I1#0",
+      "interview:I1#2"
+    ],
+    "meaning": "mother",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A08",
+      "dictB:B04",
+      "example:E04",
+      "example:E14",
+      "example:E20",
+      "interview:I1#0",
+      "interview:I1#2"
+    ]
+  },
+  "tatu": {
+    "term": "tatu",
+    "senses": [
+      {
+        "meaning": "father",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A09"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B05"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "father"
+        ],
+        "weight": 1.276
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "father",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A09",
+      "dictB:B05"
+    ]
+  },
+  "mamo": {
+    "term": "mamo",
+    "senses": [
+      {
+        "meaning": "uncle, any elder male relative",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A10"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B06"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E09"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I5#1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "uncle",
+          "uncle, any elder male relative"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [
+      {
+        "ref": "dictB:B06",
+        "text": "Always takes tuvan and -ji."
+      }
+    ],
+    "attested": [
+      "interview:I5#1"
+    ],
+    "meaning": "uncle, any elder male relative",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A10",
+      "dictB:B06",
+      "example:E09",
+      "interview:I5#1"
+    ]
+  },
+  "putu": {
+    "term": "putu",
+    "senses": [
+      {
+        "meaning": "son",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A11"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B22"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E19"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "son"
+        ],
+        "weight": 2.176
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "son",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A11",
+      "dictB:B22",
+      "example:E19"
+    ]
+  },
+  "keth": {
+    "term": "keth",
+    "senses": [
+      {
+        "meaning": "friend",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A12"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B07"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E03",
+              "example:E13"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#0",
+              "interview:I2#1",
+              "interview:I5#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "friend"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [
+      {
+        "flag": "STATUS_SENSITIVE",
+        "refs": [
+          "expert:X1-1",
+          "dictB:B07",
+          "feedback:V05",
+          "interview:I5#1"
+        ],
+        "dissent": [
+          "expert:X2-1"
+        ],
+        "lead_only": [
+          "feedback:V05"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "ref": "expert:X1-1",
+        "text": "keth must never be used upward. To an uncle or any elder it is an insult ('upstart'). Subtitles must not put it in a younger person's mouth toward an elder unless the scene wants the insult."
+      },
+      {
+        "ref": "expert:X2-1",
+        "text": "Young speakers use keth jokingly with older cousins close in age. Context decides; it is not always an insult."
+      },
+      {
+        "ref": "dictB:B07",
+        "text": "Only between equals. Said to an elder it means 'upstart' and is an insult."
+      }
+    ],
+    "attested": [
+      "interview:I2#0",
+      "interview:I2#1",
+      "interview:I5#0",
+      "interview:I5#1"
+    ],
+    "meaning": "friend",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A12",
+      "dictB:B07",
+      "example:E03",
+      "example:E13",
+      "interview:I2#0",
+      "interview:I2#1",
+      "interview:I5#0"
+    ]
+  },
+  "tamba": {
+    "term": "tamba",
+    "senses": [
+      {
+        "meaning": "house, home",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A13"
+            ]
+          }
+        },
+        "status": "SUPERSEDED",
+        "pos": "N",
+        "all_meanings": [
+          "house, home"
+        ],
+        "weight": 0.426
+      },
+      {
+        "meaning": "household, family home (the people, not the building)",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B08"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E12"
+            ]
+          },
+          "correction": {
+            "weight": 1.0,
+            "refs": [
+              "correction:EV3"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I1#1"
+            ]
+          },
+          "expert": {
+            "weight": 0.7,
+            "refs": [
+              "expert:X1-3"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "household",
+          "household, family home (the people, not the building)"
+        ],
+        "weight": 4.05
+      }
+    ],
+    "flags": [],
+    "notes": [
+      {
+        "ref": "expert:X1-3",
+        "text": "tamba is the household, the family as a unit. For the building use vasa."
+      }
+    ],
+    "attested": [
+      "interview:I1#1"
+    ],
+    "meaning": "household, family home (the people, not the building)",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictB:B08",
+      "example:E12",
+      "correction:EV3",
+      "interview:I1#1",
+      "expert:X1-3"
+    ]
+  },
+  "pura": {
+    "term": "pura",
+    "senses": [
+      {
+        "meaning": "village",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A14"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E19"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-POST-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "village"
+        ],
+        "weight": 2.526
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#0"
+    ],
+    "meaning": "village",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A14",
+      "example:E19",
+      "grammar:G-POST-1",
+      "interview:I4#0"
+    ]
+  },
+  "hatu": {
+    "term": "hatu",
+    "senses": [
+      {
+        "meaning": "market",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A15"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E16"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "market"
+        ],
+        "weight": 1.926
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#0"
+    ],
+    "meaning": "market",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A15",
+      "example:E16",
+      "interview:I2#0"
+    ]
+  },
+  "rovi": {
+    "term": "rovi",
+    "senses": [
+      {
+        "meaning": "food, meal",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A16"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B17"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E06",
+              "example:E18"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "food",
+          "food, meal"
+        ],
+        "weight": 2.176
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "food, meal",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A16",
+      "dictB:B17",
+      "example:E06",
+      "example:E18"
+    ]
+  },
+  "mitu": {
+    "term": "mitu",
+    "senses": [
+      {
+        "meaning": "sweets",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A17"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B18"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "sweets"
+        ],
+        "weight": 1.276
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "sweets",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A17",
+      "dictB:B18"
+    ]
+  },
+  "kopa": {
+    "term": "kopa",
+    "senses": [
+      {
+        "meaning": "head",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A18"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B21"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "head"
+        ],
+        "weight": 1.276
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "head",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A18",
+      "dictB:B21"
+    ]
+  },
+  "megu": {
+    "term": "megu",
+    "senses": [
+      {
+        "meaning": "cloud, clouds",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A19"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "cloud, clouds"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "cloud, clouds",
+    "pos": "N",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A19"
+    ]
+  },
+  "sanu": {
+    "term": "sanu",
+    "senses": [
+      {
+        "meaning": "year, years",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A20"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-POST-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "year",
+          "year, years"
+        ],
+        "weight": 1.626
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#0"
+    ],
+    "meaning": "year, years",
+    "pos": "N",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A20",
+      "grammar:G-POST-1",
+      "interview:I4#0"
+    ]
+  },
+  "rati": {
+    "term": "rati",
+    "senses": [
+      {
+        "meaning": "night",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A21"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "night"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "night",
+    "pos": "N",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A21"
+    ]
+  },
+  "ela": {
+    "term": "ela",
+    "senses": [
+      {
+        "meaning": "come",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A22"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E03",
+              "example:E09",
+              "example:E17"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-TENSE-2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "come"
+        ],
+        "weight": 1.926
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "come",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A22",
+      "example:E03",
+      "example:E09",
+      "example:E17",
+      "grammar:G-TENSE-2"
+    ]
+  },
+  "jaro": {
+    "term": "jaro",
+    "senses": [
+      {
+        "meaning": "go",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A23"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E05"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "go"
+        ],
+        "weight": 1.326
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "go",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A23",
+      "example:E05"
+    ]
+  },
+  "velu": {
+    "term": "velu",
+    "senses": [
+      {
+        "meaning": "return, come back, go back",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A24"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B12"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E01",
+              "example:E19"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "return",
+          "return, come back",
+          "return, come back, go back"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#0"
+    ],
+    "meaning": "return, come back, go back",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A24",
+      "dictB:B12",
+      "example:E01",
+      "example:E19",
+      "interview:I4#0"
+    ]
+  },
+  "kona": {
+    "term": "kona",
+    "senses": [
+      {
+        "meaning": "eat",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A25"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E02",
+              "example:E04",
+              "example:E14"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-TENSE-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "eat"
+        ],
+        "weight": 2.526
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#1"
+    ],
+    "meaning": "eat",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A25",
+      "example:E02",
+      "example:E04",
+      "example:E14",
+      "grammar:G-TENSE-1",
+      "interview:I2#1"
+    ]
+  },
+  "tavi": {
+    "term": "tavi",
+    "senses": [
+      {
+        "meaning": "give",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A26"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E06",
+              "example:E18"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "give"
+        ],
+        "weight": 1.326
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "give",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A26",
+      "example:E06",
+      "example:E18"
+    ]
+  },
+  "lavo": {
+    "term": "lavo",
+    "senses": [
+      {
+        "meaning": "bring",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A27"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "bring"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "bring",
+    "pos": "V",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A27"
+    ]
+  },
+  "boli": {
+    "term": "boli",
+    "senses": [
+      {
+        "meaning": "say, tell, speak",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A28"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "say, tell, speak"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#2",
+      "interview:I5#1"
+    ],
+    "meaning": "say, tell, speak",
+    "pos": "V",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A28",
+      "interview:I2#2"
+    ]
+  },
+  "kanu": {
+    "term": "kanu",
+    "senses": [
+      {
+        "meaning": "hear, listen",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A29"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "hear, listen"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "hear, listen",
+    "pos": "V",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A29"
+    ]
+  },
+  "nira": {
+    "term": "nira",
+    "senses": [
+      {
+        "meaning": "see, look",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A30"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E12",
+              "example:E16"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I1#1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "see",
+          "see, look"
+        ],
+        "weight": 1.926
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I1#1"
+    ],
+    "meaning": "see, look",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A30",
+      "example:E12",
+      "example:E16",
+      "interview:I1#1"
+    ]
+  },
+  "rusa": {
+    "term": "rusa",
+    "senses": [
+      {
+        "meaning": "wait",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A31"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E08"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "wait"
+        ],
+        "weight": 1.326
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "wait",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A31",
+      "example:E08"
+    ]
+  },
+  "tolu": {
+    "term": "tolu",
+    "senses": [
+      {
+        "meaning": "work",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A32"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "work"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#0"
+    ],
+    "meaning": "work",
+    "pos": "V",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A32",
+      "interview:I2#0"
+    ]
+  },
+  "si": {
+    "term": "si",
+    "senses": [
+      {
+        "meaning": "be, is, are, was",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A33"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#1",
+              "interview:I5#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "be, is, are, was"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#1",
+      "interview:I5#2"
+    ],
+    "meaning": "be, is, are, was",
+    "pos": "V",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A33",
+      "interview:I4#1",
+      "interview:I5#2"
+    ]
+  },
+  "misa": {
+    "term": "misa",
+    "senses": [
+      {
+        "meaning": "forget",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A34"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B11"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E13",
+              "example:E20"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "forget"
+        ],
+        "weight": 2.176
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "forget",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A34",
+      "dictB:B11",
+      "example:E13",
+      "example:E20"
+    ]
+  },
+  "hesu": {
+    "term": "hesu",
+    "senses": [
+      {
+        "meaning": "cry, weep",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A35"
+            ]
+          }
+        },
+        "status": "POISON_SUSPECT",
+        "pos": "V",
+        "all_meanings": [
+          "cry, weep"
+        ],
+        "contradicted_by": [
+          "dictB:B10",
+          "example:E10",
+          "example:E11"
+        ],
+        "weight": 0.426
+      },
+      {
+        "meaning": "laugh",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B10"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E10",
+              "example:E11"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "V",
+        "all_meanings": [
+          "laugh"
+        ],
+        "weight": 1.75
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "laugh",
+    "pos": "V",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictB:B10",
+      "example:E10",
+      "example:E11"
+    ]
+  },
+  "mo": {
+    "term": "mo",
+    "senses": [
+      {
+        "meaning": "very",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A36"
+            ]
+          }
+        },
+        "status": "POISON_SUSPECT",
+        "pos": "ADV",
+        "all_meanings": [
+          "very"
+        ],
+        "contradicted_by": [
+          "dictB:B15",
+          "example:E04",
+          "example:E08",
+          "example:E20",
+          "grammar:G-NEG-1",
+          "interview:I5#1"
+        ],
+        "weight": 0.426
+      },
+      {
+        "meaning": "not (negation, before the verb)",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B15"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E04",
+              "example:E08",
+              "example:E20"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-NEG-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I5#1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PART",
+        "all_meanings": [
+          "not",
+          "not (negation, before the verb)"
+        ],
+        "weight": 2.95
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I5#1"
+    ],
+    "meaning": "not (negation, before the verb)",
+    "pos": "PART",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictB:B15",
+      "example:E04",
+      "example:E08",
+      "example:E20",
+      "grammar:G-NEG-1",
+      "interview:I5#1"
+    ]
+  },
+  "ka": {
+    "term": "ka",
+    "senses": [
+      {
+        "meaning": "question particle (end of sentence)",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A37"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B16"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E02",
+              "example:E09",
+              "example:E14",
+              "example:E17"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-Q-1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "PART",
+        "all_meanings": [
+          "question marker",
+          "question particle",
+          "question particle (end of sentence)"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I1#2",
+      "interview:I5#0"
+    ],
+    "meaning": "question particle (end of sentence)",
+    "pos": "PART",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A37",
+      "dictB:B16",
+      "example:E02",
+      "example:E09",
+      "example:E14",
+      "example:E17",
+      "grammar:G-Q-1"
+    ]
+  },
+  "ke": {
+    "term": "ke",
+    "senses": [
+      {
+        "meaning": "to, towards, in",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A38"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E05",
+              "example:E09",
+              "example:E19"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-POST-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "POST",
+        "all_meanings": [
+          "to",
+          "to, towards, in"
+        ],
+        "weight": 2.526
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#0",
+      "interview:I4#0"
+    ],
+    "meaning": "to, towards, in",
+    "pos": "POST",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A38",
+      "example:E05",
+      "example:E09",
+      "example:E19",
+      "grammar:G-POST-1",
+      "interview:I4#0"
+    ]
+  },
+  "se": {
+    "term": "se",
+    "senses": [
+      {
+        "meaning": "by, with, from",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A39"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E17"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-POST-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I2#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "POST",
+        "all_meanings": [
+          "by",
+          "by, with, from"
+        ],
+        "weight": 2.526
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I2#2"
+    ],
+    "meaning": "by, with, from",
+    "pos": "POST",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A39",
+      "example:E17",
+      "grammar:G-POST-1",
+      "interview:I2#2"
+    ]
+  },
+  "pisu": {
+    "term": "pisu",
+    "senses": [
+      {
+        "meaning": "after",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A40"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-POST-1"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#0"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "POST",
+        "all_meanings": [
+          "after"
+        ],
+        "weight": 1.626
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#0"
+    ],
+    "meaning": "after",
+    "pos": "POST",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A40",
+      "grammar:G-POST-1",
+      "interview:I4#0"
+    ]
+  },
+  "puna": {
+    "term": "puna",
+    "senses": [
+      {
+        "meaning": "again",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A41"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADV",
+        "all_meanings": [
+          "again"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "again",
+    "pos": "ADV",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A41"
+    ]
+  },
+  "kalu": {
+    "term": "kalu",
+    "senses": [
+      {
+        "meaning": "tomorrow",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A42"
+            ]
+          },
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B19"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E03",
+              "example:E18"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-ORDER-1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADV",
+        "all_meanings": [
+          "tomorrow"
+        ],
+        "weight": 2.776
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "tomorrow",
+    "pos": "ADV",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictA:A42",
+      "dictB:B19",
+      "example:E03",
+      "example:E18",
+      "grammar:G-ORDER-1"
+    ]
+  },
+  "ennal": {
+    "term": "ennal",
+    "senses": [
+      {
+        "meaning": "today",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A43"
+            ]
+          },
+          "grammar": {
+            "weight": 0.6,
+            "refs": [
+              "grammar:G-ORDER-1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADV",
+        "all_meanings": [
+          "today"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "today",
+    "pos": "ADV",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A43",
+      "grammar:G-ORDER-1"
+    ]
+  },
+  "pethi": {
+    "term": "pethi",
+    "senses": [
+      {
+        "meaning": "hungry",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A44"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADJ",
+        "all_meanings": [
+          "hungry"
+        ],
+        "weight": 0.426
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "hungry",
+    "pos": "ADJ",
+    "status": "WEAK",
+    "evidence": [
+      "dictA:A44"
+    ]
+  },
+  "dera": {
+    "term": "dera",
+    "senses": [
+      {
+        "meaning": "late",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A45"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I4#1"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADJ",
+        "all_meanings": [
+          "late"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I4#1"
+    ],
+    "meaning": "late",
+    "pos": "ADJ",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A45",
+      "interview:I4#1"
+    ]
+  },
+  "bodo": {
+    "term": "bodo",
+    "senses": [
+      {
+        "meaning": "big, old",
+        "families": {
+          "dictA": {
+            "weight": 0.426,
+            "refs": [
+              "dictA:A46"
+            ]
+          },
+          "interview": {
+            "weight": 0.6,
+            "refs": [
+              "interview:I5#2"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "ADJ",
+        "all_meanings": [
+          "big, old"
+        ],
+        "weight": 1.026
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [
+      "interview:I5#2"
+    ],
+    "meaning": "big, old",
+    "pos": "ADJ",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictA:A46",
+      "interview:I5#2"
+    ]
+  },
+  "ditta": {
+    "term": "ditta",
+    "senses": [
+      {
+        "meaning": "elder sister",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B02"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "elder sister"
+        ],
+        "weight": 0.85
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "elder sister",
+    "pos": "N",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictB:B02"
+    ]
+  },
+  "vasa": {
+    "term": "vasa",
+    "senses": [
+      {
+        "meaning": "house (the building)",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B09"
+            ]
+          },
+          "example": {
+            "weight": 0.9,
+            "refs": [
+              "example:E09"
+            ]
+          },
+          "correction": {
+            "weight": 1.0,
+            "refs": [
+              "correction:EV3"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "N",
+        "all_meanings": [
+          "house",
+          "house (the building)"
+        ],
+        "weight": 2.75
+      }
+    ],
+    "flags": [],
+    "notes": [
+      {
+        "ref": "expert:X1-3",
+        "text": "tamba is the household, the family as a unit. For the building use vasa."
+      }
+    ],
+    "attested": [],
+    "meaning": "house (the building)",
+    "pos": "N",
+    "status": "CONFIRMED",
+    "evidence": [
+      "dictB:B09",
+      "example:E09",
+      "correction:EV3"
+    ]
+  },
+  "nama": {
+    "term": "nama",
+    "senses": [
+      {
+        "meaning": "hello, greeting",
+        "families": {
+          "dictB": {
+            "weight": 0.85,
+            "refs": [
+              "dictB:B20"
+            ]
+          }
+        },
+        "status": "LIVE",
+        "pos": "INTJ",
+        "all_meanings": [
+          "hello, greeting"
+        ],
+        "weight": 0.85
+      }
+    ],
+    "flags": [],
+    "notes": [],
+    "attested": [],
+    "meaning": "hello, greeting",
+    "pos": "INTJ",
+    "status": "SUPPORTED",
+    "evidence": [
+      "dictB:B20"
+    ]
+  }
+}

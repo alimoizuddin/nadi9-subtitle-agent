@@ -1,0 +1,15 @@
+{
+  "note": "Surprise events injected during the sample run. Each names the point in the run where it fires; step N is the Nth scene in the risk-ordered plan.",
+  "events": [
+    {"id": "EV1", "at": "after_learning", "type": "model_rule_proposal",
+     "rule": {"id": "M-PL-1", "kind": "plural_suffix", "params": {"suffix": "lu"}, "statement": "Plural nouns take the suffix -lu (e.g. sanulu 'years')."},
+     "claimed_confidence": 0.94},
+    {"id": "EV2", "at": "before_step:2", "type": "model_failure", "times": 1},
+    {"id": "EV3", "at": "after_step:2", "type": "linguist_correction", "from": "X1 (Dr. L. Nair)",
+     "changes": [
+       {"op": "set_meaning", "term": "tamba", "meaning": "household, family home (the people, not the building)"},
+       {"op": "set_meaning", "term": "vasa", "meaning": "house (the building)"}]},
+    {"id": "EV4", "at": "after_step:3", "type": "example_retraction", "examples": ["E15"],
+     "reason": "Localisation team: E15 placed the negation after the verb by mistake."}
+  ]
+}

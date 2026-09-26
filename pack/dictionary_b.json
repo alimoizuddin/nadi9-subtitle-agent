@@ -1,0 +1,28 @@
+{
+  "title": "Nadi-9 word list (community linguist)",
+  "method": "Each entry heard from at least two speakers in the valley.",
+  "entries": [
+    {"id": "B01", "term": "anno", "pos": "N", "meaning": "elder brother"},
+    {"id": "B02", "term": "ditta", "pos": "N", "meaning": "elder sister"},
+    {"id": "B03", "term": "kiro", "pos": "N", "meaning": "younger sibling (sister or brother)"},
+    {"id": "B04", "term": "maaya", "pos": "N", "meaning": "mother"},
+    {"id": "B05", "term": "tatu", "pos": "N", "meaning": "father"},
+    {"id": "B06", "term": "mamo", "pos": "N", "meaning": "uncle, any elder male relative", "note": "Always takes tuvan and -ji."},
+    {"id": "B07", "term": "keth", "pos": "N", "meaning": "friend", "note": "Only between equals. Said to an elder it means 'upstart' and is an insult."},
+    {"id": "B08", "term": "tamba", "pos": "N", "meaning": "household, family home (the people, not the building)"},
+    {"id": "B09", "term": "vasa", "pos": "N", "meaning": "house (the building)"},
+    {"id": "B10", "term": "hesu", "pos": "V", "meaning": "laugh"},
+    {"id": "B11", "term": "misa", "pos": "V", "meaning": "forget"},
+    {"id": "B12", "term": "velu", "pos": "V", "meaning": "return, come back"},
+    {"id": "B13", "term": "tuvan", "pos": "PRON", "meaning": "you (respect: elders, higher status)"},
+    {"id": "B14", "term": "tu", "pos": "PRON", "meaning": "you (familiar: peers, younger)"},
+    {"id": "B15", "term": "mo", "pos": "PART", "meaning": "not (negation, before the verb)"},
+    {"id": "B16", "term": "ka", "pos": "PART", "meaning": "question particle (end of sentence)"},
+    {"id": "B17", "term": "rovi", "pos": "N", "meaning": "food"},
+    {"id": "B18", "term": "mitu", "pos": "N", "meaning": "sweets"},
+    {"id": "B19", "term": "kalu", "pos": "ADV", "meaning": "tomorrow"},
+    {"id": "B20", "term": "nama", "pos": "INTJ", "meaning": "hello, greeting"},
+    {"id": "B21", "term": "kopa", "pos": "N", "meaning": "head"},
+    {"id": "B22", "term": "putu", "pos": "N", "meaning": "son"}
+  ]
+}

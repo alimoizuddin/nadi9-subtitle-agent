@@ -1,0 +1,6 @@
+{
+  "key": "redraft_EV3",
+  "prompt_sha": "e173370223286f04",
+  "model": "claude-opus-5-5 (offline, Claude Code session)",
+  "response": "{\"lines\": [\n {\"subtitle_id\": \"S003\", \"nadi_9_text\": null,\n  \"tokens\": [],\n  \"gaps\": [{\"words\": \"welcome\", \"reason\": \"Still no welcome formula in any source. The correction settles 'home' as 'tamba' (the household), but 'nama' is only glossed 'hello, greeting'.\"}],\n  \"dropped\": [],\n  \"assumptions\": [\"Candidate for the reviewer: 'putu, tu tamba ke veluri' = 'son, you came back to the household'. Not used because it paraphrases the greeting.\",\n                  \"'home' here is the family, so tamba (not vasa) is right after correction EV3.\"],\n  \"self_confidence\": 0.35}\n]}\n"
+}

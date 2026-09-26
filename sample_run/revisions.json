@@ -1,0 +1,233 @@
+{
+  "replans": [
+    {
+      "event": "EV3",
+      "kv": 2,
+      "affected": [
+        "S003"
+      ],
+      "untouched": [
+        "S001",
+        "S002",
+        "S004",
+        "S005",
+        "S006",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018"
+      ],
+      "changes": [
+        {
+          "line": "S003",
+          "before": [
+            "INSUFFICIENT_EVIDENCE",
+            null,
+            0.0
+          ],
+          "after": [
+            "INSUFFICIENT_EVIDENCE",
+            null,
+            0.0
+          ],
+          "changed": false,
+          "redrafted": true,
+          "question_before": "The pack has no evidence for 'welcome home' in 'Welcome home, son.' (Kamla (55) to Ravi (30, younger)). What is the Nadi-9 wording here?",
+          "question_after": "The pack has no evidence for 'welcome' in 'Welcome home, son.' (Kamla (55) to Ravi (30, younger)). What is the Nadi-9 wording here?",
+          "question_changed": true
+        }
+      ]
+    },
+    {
+      "event": "EV4",
+      "kv": 3,
+      "affected": [],
+      "untouched": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018"
+      ],
+      "changes": []
+    }
+  ],
+  "history": {
+    "S005": [
+      {
+        "stage": "rejected_draft",
+        "proposal": {
+          "subtitle_id": "S005",
+          "nadi_9_text": "tuvan phone se mo boliriji",
+          "tokens": [
+            {
+              "t": "tuvan",
+              "gloss": "you.RESP",
+              "src": [
+                "you"
+              ],
+              "evidence": [
+                "grammar:G-RESPECT-1"
+              ]
+            },
+            {
+              "t": "phone",
+              "gloss": "phone.LOAN",
+              "src": [
+                "phone"
+              ],
+              "evidence": [
+                "grammar:G-LOAN-1",
+                "interview:I2#2"
+              ]
+            },
+            {
+              "t": "se",
+              "gloss": "by",
+              "src": [],
+              "evidence": [
+                "interview:I2#2",
+                "example:E17"
+              ]
+            },
+            {
+              "t": "mo",
+              "gloss": "NEG",
+              "src": [
+                "not"
+              ],
+              "evidence": [
+                "grammar:G-NEG-1"
+              ]
+            },
+            {
+              "t": "boliriji",
+              "gloss": "say-PAST-RESP",
+              "src": [
+                "call"
+              ],
+              "evidence": [
+                "interview:I2#2",
+                "grammar:G-RESPECT-2"
+              ]
+            }
+          ],
+          "gaps": [
+            {
+              "words": "even",
+              "reason": "No word for 'even'; the reproach is weaker without it."
+            }
+          ],
+          "dropped": [],
+          "assumptions": [
+            "'call on the phone' rendered as 'speak by phone', following interview I2 'ma phone se boliri'."
+          ],
+          "self_confidence": 0.75
+        },
+        "failures": [
+          "'boli' means 'say, tell, speak', not ['call']"
+        ],
+        "kv": 1
+      }
+    ],
+    "S003": [
+      {
+        "stage": "superseded_decision",
+        "subtitle_id": "S003",
+        "scene": "SC1",
+        "start": "00:00:11.000",
+        "end": "00:00:13.400",
+        "speaker": "Kamla",
+        "addressee": "Ravi",
+        "relation": "younger",
+        "source_text": "Welcome home, son.",
+        "nadi_9_text": null,
+        "gloss": [],
+        "confidence": 0.0,
+        "confidence_reason": "No translation proposed: 'welcome home' (No welcome formula in any source: 'nama' is only glossed 'hello, greeting', and 'home' would be 'tamba', whose meaning is contested (household vs house/home).)",
+        "decision": "INSUFFICIENT_EVIDENCE",
+        "evidence": [],
+        "assumptions": [
+          "'putu' (son) would open the line as a vocative once the greeting is known."
+        ],
+        "conflicts": [],
+        "review_question": "The pack has no evidence for 'welcome home' in 'Welcome home, son.' (Kamla (55) to Ravi (30, younger)). What is the Nadi-9 wording here?",
+        "other_questions": [],
+        "review_priority": 2,
+        "checks": [
+          {
+            "check": "EVIDENCE",
+            "status": "WARN",
+            "detail": "translation withheld: welcome home"
+          }
+        ],
+        "model_self_confidence": 0.3,
+        "knowledge_version": 1,
+        "why": "draft",
+        "deps": {
+          "terms": [
+            "tamba"
+          ],
+          "rules": [],
+          "evidence": []
+        }
+      },
+      {
+        "stage": "superseded_decision",
+        "subtitle_id": "S003",
+        "scene": "SC1",
+        "start": "00:00:11.000",
+        "end": "00:00:13.400",
+        "speaker": "Kamla",
+        "addressee": "Ravi",
+        "relation": "younger",
+        "source_text": "Welcome home, son.",
+        "nadi_9_text": null,
+        "gloss": [],
+        "confidence": 0.0,
+        "confidence_reason": "No translation proposed: 'welcome home' (No welcome formula in any source: 'nama' is only glossed 'hello, greeting', and 'home' would be 'tamba', whose meaning is contested (household vs house/home).)",
+        "decision": "INSUFFICIENT_EVIDENCE",
+        "evidence": [],
+        "assumptions": [
+          "'putu' (son) would open the line as a vocative once the greeting is known."
+        ],
+        "conflicts": [],
+        "review_question": "The pack has no evidence for 'welcome home' in 'Welcome home, son.' (Kamla (55) to Ravi (30, younger)). What is the Nadi-9 wording here?",
+        "other_questions": [],
+        "review_priority": 2,
+        "checks": [
+          {
+            "check": "EVIDENCE",
+            "status": "WARN",
+            "detail": "translation withheld: welcome home"
+          }
+        ],
+        "model_self_confidence": 0.3,
+        "knowledge_version": 2,
+        "why": "re-checked after EV3",
+        "deps": {
+          "terms": [
+            "tamba"
+          ],
+          "rules": [],
+          "evidence": []
+        }
+      }
+    ]
+  }
+}

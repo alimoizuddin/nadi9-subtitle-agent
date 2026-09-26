@@ -1,0 +1,216 @@
+{
+  "episode_id": "EP01",
+  "title": "Homecoming",
+  "setting": "Rural village in the Nadi valley; one family, present day",
+  "characters": [
+    {
+      "id": "RAVI",
+      "name": "Ravi",
+      "age": 30,
+      "note": "Elder son, back from the city after three years"
+    },
+    {
+      "id": "MEERA",
+      "name": "Meera",
+      "age": 22,
+      "note": "Ravi's younger sister"
+    },
+    {
+      "id": "KAMLA",
+      "name": "Kamla",
+      "age": 55,
+      "note": "Mother of Ravi and Meera"
+    },
+    {
+      "id": "SONU",
+      "name": "Sonu",
+      "age": 31,
+      "note": "Ravi's childhood friend"
+    },
+    {
+      "id": "HARI",
+      "name": "Hari",
+      "age": 62,
+      "note": "Kamla's elder brother; uncle to Ravi and Meera"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "SC1",
+      "title": "The courtyard, evening"
+    },
+    {
+      "id": "SC2",
+      "title": "The village market"
+    },
+    {
+      "id": "SC3",
+      "title": "Kitchen, night"
+    }
+  ],
+  "lines": [
+    {
+      "id": "S001",
+      "scene": "SC1",
+      "start": "00:00:04.200",
+      "end": "00:00:06.800",
+      "speaker": "MEERA",
+      "addressee": "RAVI",
+      "text": "You came back, elder brother?"
+    },
+    {
+      "id": "S002",
+      "scene": "SC1",
+      "start": "00:00:07.100",
+      "end": "00:00:09.900",
+      "speaker": "RAVI",
+      "addressee": "MEERA",
+      "text": "I came back after 3 years."
+    },
+    {
+      "id": "S003",
+      "scene": "SC1",
+      "start": "00:00:11.000",
+      "end": "00:00:13.400",
+      "speaker": "KAMLA",
+      "addressee": "RAVI",
+      "text": "Welcome home, son."
+    },
+    {
+      "id": "S004",
+      "scene": "SC1",
+      "start": "00:00:14.000",
+      "end": "00:00:16.900",
+      "speaker": "RAVI",
+      "addressee": "KAMLA",
+      "text": "Mother, I did not forget you."
+    },
+    {
+      "id": "S005",
+      "scene": "SC1",
+      "start": "00:00:17.300",
+      "end": "00:00:20.100",
+      "speaker": "MEERA",
+      "addressee": "RAVI",
+      "text": "You did not even call on the phone."
+    },
+    {
+      "id": "S006",
+      "scene": "SC1",
+      "start": "00:00:20.600",
+      "end": "00:00:22.600",
+      "speaker": "RAVI",
+      "addressee": "MEERA",
+      "text": "The bus was late."
+    },
+    {
+      "id": "S007",
+      "scene": "SC2",
+      "start": "00:01:02.000",
+      "end": "00:01:04.100",
+      "speaker": "SONU",
+      "addressee": "RAVI",
+      "text": "Friend! You came back!"
+    },
+    {
+      "id": "S008",
+      "scene": "SC2",
+      "start": "00:01:04.500",
+      "end": "00:01:06.400",
+      "speaker": "RAVI",
+      "addressee": "SONU",
+      "text": "Friend, let us eat."
+    },
+    {
+      "id": "S009",
+      "scene": "SC2",
+      "start": "00:01:07.000",
+      "end": "00:01:09.800",
+      "speaker": "SONU",
+      "addressee": "RAVI",
+      "text": "Your head is still in the clouds."
+    },
+    {
+      "id": "S010",
+      "scene": "SC2",
+      "start": "00:01:12.300",
+      "end": "00:01:15.600",
+      "speaker": "RAVI",
+      "addressee": "HARI",
+      "text": "Uncle, will you come to the house tomorrow?"
+    },
+    {
+      "id": "S011",
+      "scene": "SC2",
+      "start": "00:01:16.000",
+      "end": "00:01:18.700",
+      "speaker": "HARI",
+      "addressee": "RAVI",
+      "text": "I will come. Bring sweets."
+    },
+    {
+      "id": "S012",
+      "scene": "SC2",
+      "start": "00:01:19.500",
+      "end": "00:01:21.900",
+      "speaker": "SONU",
+      "addressee": "HARI",
+      "text": "Old friend, are you laughing?",
+      "direction": "Sonu teases Hari; Hari is amused, not offended."
+    },
+    {
+      "id": "S013",
+      "scene": "SC3",
+      "start": "00:02:30.000",
+      "end": "00:02:32.800",
+      "speaker": "KAMLA",
+      "addressee": "MEERA",
+      "text": "Give him food, he is hungry."
+    },
+    {
+      "id": "S014",
+      "scene": "SC3",
+      "start": "00:02:33.000",
+      "end": "00:02:33.900",
+      "speaker": "MEERA",
+      "addressee": "KAMLA",
+      "text": "I already gave him 40!"
+    },
+    {
+      "id": "S015",
+      "scene": "SC3",
+      "start": "00:02:35.000",
+      "end": "00:02:37.900",
+      "speaker": "RAVI",
+      "addressee": "KAMLA",
+      "text": "I will not go back to the city."
+    },
+    {
+      "id": "S016",
+      "scene": "SC3",
+      "start": "00:02:38.500",
+      "end": "00:02:40.000",
+      "speaker": "KAMLA",
+      "addressee": "RAVI",
+      "text": "We will see."
+    },
+    {
+      "id": "S017",
+      "scene": "SC3",
+      "start": "00:02:40.400",
+      "end": "00:02:42.600",
+      "speaker": "MEERA",
+      "addressee": "KAMLA",
+      "text": "He says that every year."
+    },
+    {
+      "id": "S018",
+      "scene": "SC3",
+      "start": "00:02:43.000",
+      "end": "00:02:45.200",
+      "speaker": "RAVI",
+      "addressee": "MEERA",
+      "text": "Little sister, I heard that."
+    }
+  ]
+}
