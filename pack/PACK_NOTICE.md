@@ -4,7 +4,7 @@ The official Nadi-9 assignment pack (approved examples, Dictionaries A and B, gr
 audio interviews, viewer feedback, expert notes, episode transcript) was requested from STAGE
 on 25 Sep 2026 and had not arrived by the time this build started.
 
-Everything in this folder was written by the candidate to exercise the pipeline. It imitates
+Everything in this folder was written for this submission by Claude Code (see `AI_COLLABORATION.md`) to exercise the pipeline. It imitates
 the *shape and difficulty* the brief describes:
 
 | Brief says | Synthetic pack contains |
@@ -18,7 +18,7 @@ the *shape and difficulty* the brief describes:
 | 3 experts who disagree | 3 expert notes with two real disagreements |
 | Episode with humour, relationships, code-switching | 18 timed lines, 5 characters, 3 scenes |
 
-The answer key the candidate used to design the traps lives in `eval/answer_key.json`,
+The answer key used to design the traps lives in `eval/answer_key.json`,
 outside this folder. The pipeline never reads it; a test enforces that.
 
 When the real pack arrives, write an adapter from its format to the schema in

@@ -2,7 +2,7 @@
 
     python eval/score.py sample_run
 
-The pipeline never sees the key; this is only for the evaluator (and the candidate) to check
+The pipeline never sees the key; this is only for a human evaluator to check
 that each planted trap was caught and that no line was accepted that should not have been.
 """
 import json
@@ -45,6 +45,6 @@ for name, ok in checks:
     print(f"[{'ok' if ok else 'XX'}] {name}")
 print(f"\nfalse accepts: {false_accepts or 'none'}")
 print(f"safe lines sent to review anyway: {missed or 'none'}")
-print(f"drafts matching the key exactly: {len(exact)}/{sum(1 for k in key['lines'].values() if k['ideal'])} (not a quality score: the same person wrote the key and the offline drafts)")
+print(f"drafts matching the key exactly: {len(exact)}/{sum(1 for k in key['lines'].values() if k['ideal'])} (not a quality score: the same model wrote the key and the offline drafts)")
 print(f"\n{sum(ok for _, ok in checks)}/{len(checks)} trap checks passed")
 sys.exit(0 if all(ok for _, ok in checks) else 1)
