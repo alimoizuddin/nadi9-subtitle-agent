@@ -19,7 +19,7 @@ def load():
     log = [json.loads(x) for x in (RUN / "run_log.jsonl").read_text(encoding="utf-8").splitlines()]
     poisoned = [{"term": t, "meaning": s["meaning"], "by": s.get("contradicted_by", [])}
                 for t, c in lex.items() for s in c["senses"] if s["status"] == "POISON_SUSPECT"]
-    calls = sum(1 for r in log if r["kind"] == "MODEL_CALL")
+    calls = sum(1 for r in log if r["kind"] in ("MODEL_CALL", "MODEL_UNAVAILABLE"))  # every attempt counts against the budget
     return {
         "decisions": [{k: d[k] for k in ("subtitle_id", "start", "end", "speaker", "addressee", "relation",
                                           "source_text", "nadi_9_text", "gloss", "confidence", "confidence_reason",
